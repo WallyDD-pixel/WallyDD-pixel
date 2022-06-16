@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/racr/static/css/main.c047a630.css",
+    "main.js": "/racr/static/js/main.a7f19c5a.js",
+    "static/media/Pink Line Tunnel Illusion Motion Graphic Background Video Loop Animation Stock Footage No Copyright.mp4": "/racr/static/media/Pink Line Tunnel Illusion Motion Graphic Background Video Loop Animation Stock Footage No Copyright.177e0606515d88b482e9.mp4",
+    "index.html": "/racr/index.html",
+    "main.c047a630.css.map": "/racr/static/css/main.c047a630.css.map",
+    "main.a7f19c5a.js.map": "/racr/static/js/main.a7f19c5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c047a630.css",
+    "static/js/main.a7f19c5a.js"
+  ]
+}
